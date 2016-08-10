@@ -32,8 +32,8 @@ npm install format-general-location
 
 
 - `location: object`
-  - `city: string`,
-  - `state: string`,
-  - `postalCode: string | number`,
+  - `city: string`
+  - `state: string`
+  - `postalCode: string | number`
   - `country: string`
 - **returns**: `string` formatted location
