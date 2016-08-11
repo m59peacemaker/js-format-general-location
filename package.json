@@ -1,6 +1,6 @@
 {
   "name": "format-general-location",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Takes an object of a general location and returns a formatted string.",
   "main": "build/index.js",
   "scripts": {
