@@ -114,3 +114,8 @@ test('country', t => {
     country: 'US'
   }), 'US')
 })
+
+test('empty should return empty string', t => {
+  t.plan(1)
+  t.equal(formatLocation({}), '')
+})
