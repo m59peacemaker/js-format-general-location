@@ -1,6 +1,6 @@
 {
   "name": "format-general-location",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Takes an object of a general location and returns a formatted string.",
   "main": "build/index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "name": "Johnny Hauser",
     "email": "johnnyhauser@gmail.com"
   },
-  "license": "VOL",
+  "license": "CC0-1.0",
   "devDependencies": {
     "babel-preset-es2015": "^6.13.2",
     "tape": "^4.6.0"
